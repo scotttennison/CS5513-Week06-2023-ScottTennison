@@ -1,0 +1,50 @@
+[
+    {
+        "team_name": "Chiefs",
+        "head_coach": "Andy Reid",
+        "quarterback": "Patrick Mahomes",
+        "team_website": "https://www.chiefs.com/",
+        "odds_to_win": "6-1",
+        "id": 1
+    },
+    {
+        "team_name": "Eagles",
+        "head_coach": "Nick Sirianni",
+        "quarterback": "Jalen Hurts",
+        "team_website": "https://www.philadelphiaeagles.com/",
+        "odds_to_win": "8-1",
+        "id": 2
+    },
+    {
+        "team_name": "Bills",
+        "head_coach": "Sean McDermott",
+        "quarterback": "Josh Allen",
+        "team_website": "https://www.buffalobills.com/",
+        "odds_to_win": "9-1",
+        "id": 3
+    },
+    {
+        "team_name": "Niners",
+        "head_coach": "Kyle Shanahan",
+        "quarterback": "Brock Purdy",
+        "team_website": "https://www.49ers.com/",
+        "odds_to_win": "10-1",
+        "id": 4
+    },
+    {
+        "team_name": "Bengals",
+        "head_coach": "Zac Taylor",
+        "quarterback": "Joe Burrow",
+        "team_website": "https://www.bengals.com/",
+        "odds_to_win": "11-1",
+        "id": 5
+    },
+    {
+        "team_name": "Cowboys",
+        "head_coach": "Mike McCarthy",
+        "quarterback": "Dak Prescott",
+        "team_website": "https://www.dallascowboys.com/",
+        "odds_to_win": "15-1",
+        "id": 6
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "round": "Super Bowl",
+        "winner": 1,
+        "id": 1
+    },
+    {
+        "round": "Conference Championship",
+        "winner": 1,
+        "id": 2
+    },
+    {
+        "round": "Conference Championship",
+        "winner": 2,
+        "id": 3
+    },
+    {
+        "round": "Divisional Round",
+        "winner": 1,
+        "id": 4
+    },
+    {
+        "round": "Divisional Round",
+        "winner": 2,
+        "id": 5
+    },
+    {
+        "round": "Divisional Round",
+        "winner": 4,
+        "id": 6
+    },
+    {
+        "round": "Divisional Round",
+        "winner": 5,
+        "id": 7
+    },
+    {
+        "round": "Wild Card Round",
+        "winner": 1,
+        "id": 8
+    },
+    {
+        "round": "Wild Card Round",
+        "winner": 2,
+        "id": 9
+    },
+    {
+        "round": "Wild Card Round",
+        "winner": 3,
+        "id": 10
+    },  
+    {
+        "round": "Wild Card Round",
+        "winner": 4,
+        "id": 11
+    },
+    {
+        "round": "Wild Card Round",
+        "winner": 5,
+        "id": 12
+    },
+    {
+        "round": "Wild Card Round",
+        "winner": 6,
+        "id": 13
+    }
+]
